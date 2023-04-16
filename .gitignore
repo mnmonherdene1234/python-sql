@@ -17,3 +17,8 @@ ENV/
 # Ignore user-specific IDE settings
 .idea/
 .vscode/
+
+#build
+build
+dist
+main.spec
